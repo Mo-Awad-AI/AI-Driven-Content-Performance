@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- If you keep the current filename, keep the first link; if you rename to a clean slug, use the second link -->
-  <a href="[./Mo%20Awad_%20AI-Driven%20Content%20Performance%20.pdf](https://github.com/Mo-Awad-AI/AI-Driven-Content-Performance/blob/main/Mo%20Awad_%20AI-Driven%20Content%20Performance%20.pdf)">📄 View the PDF</a> • 
+  <a href="https://github.com/Mo-Awad-AI/AI-Driven-Content-Performance/blob/cab7bcf12bceb2af5ca2943bb4ea7cbd98453eff/Mo%20Awad_%20AI-Driven%20Content%20Performance%20.pdf">📄 View the PDF</a> • 
 </p>
 
 ---
