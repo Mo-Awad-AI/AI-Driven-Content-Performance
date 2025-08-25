@@ -1,7 +1,4 @@
-# AI-Driven-Content-Performance
-Case-study deck- an Azure-AI workflow for content performance (taxonomy, KPI rollups, anomaly detection, exec insights, &amp; automated delivery).
-
-# AgentC — AI-Driven Content Performance (Case Study Deck)
+# AI-Driven Content Performance (Case Study Deck)
 **An operator-grade, Azure-AI workflow for turning content sprawl into CMO-ready insights.**
 
 <p align="center">
